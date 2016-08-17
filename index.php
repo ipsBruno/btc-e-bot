@@ -8,11 +8,11 @@
 	# Configurações API
 
 	$config = (object) [
-		'api' 		=> 'T23V49NE-BBBBBB--AAAAAAA-FDMILSMZ-AAAAAAA-',
-		'key' 		=> '672c8ad1e80ea000g0bas00e0aa0d00a0f0edade9afb83b1821b1a81a117fds781499',
+		'api' 			=> 'T23V49NE-BBBBBB--AAAAAAA-FDMILSMZ-AAAAAAA-',
+		'key' 			=> '672c8ad1e80ea000g0bas00e0aa0d00a0f0edade9afb83b1821b1a81a117fds781499',
 		'valTrade'		=> 25.0,
 		'margin'		=> 0.001,
-		'maxTime' 	=> 3600
+		'maxTime' 		=> 3600
 	];
 
 	$trade =  new btceTrade ();
