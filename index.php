@@ -31,7 +31,7 @@
 				throw new Exception("The order {$id} reached the maxTime. Cancelling ...");
 			}
 		}
-		throw new Exception("Waiting orders ...");
+		//throw new Exception("Waiting orders ...");
 	}
 	else {
 
