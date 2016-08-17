@@ -1,5 +1,3 @@
-﻿<script> setTimeout(function() { location.reload(true); }, 60000); </script>
-
 <?php
 
 	# Carregar libs
